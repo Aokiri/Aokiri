@@ -4,9 +4,9 @@
 
 ### Hello there! 👋
 
-Hi! My name is Allan Dominguez 'AKA' Aokiri, junior developer and software engineer.
+Hi! My name is Allan Dominguez 'AKA' Aokiri, I'm currently work as web developer and software engineer.
 
-I love learning new things and creating well funded projects, that's why I started my career long time ago in IT, and now I'm in Programming and Web Development.
++6 years of experience in the IT industry, I love learning new things and creating well funded projects, that's why I started my career long time ago in IT, and now I'm in Programming and Web Development.
 
 Also, for years I've been acquiring knowledge together with my curiosity and selftaught nature.
 
@@ -23,11 +23,16 @@ Also, for years I've been acquiring knowledge together with my curiosity and sel
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" />
       <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
    </p>  
-   
+
+## Frameworks
+
+   <p align="center">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" />
+   </p>
+
 ## Tools
 
    <p align="center">
