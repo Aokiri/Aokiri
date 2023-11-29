@@ -17,19 +17,20 @@ Also, for years I've been acquiring knowledge together with my curiosity and sel
 ## Used
 
    <p align="center">
-      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/java.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/csharp_dotnet.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/python.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/html.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/css3.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/js.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/typescript.svg" />
+      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/java.svg" />
    </p>  
 
 ## Frameworks
 
    <p align="center">
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/react.svg" />
+      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/angular.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/bootstrap.svg" />
    </p>
 
@@ -39,6 +40,10 @@ Also, for years I've been acquiring knowledge together with my curiosity and sel
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/visualstudio.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/visualstudio_code.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/bash.svg" />
+      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/powershell.svg" />
+      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/docker.svg" />
+      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/kubernetes.svg" />
+      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/sass.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/vmware.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/aws.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/azure.svg" />
