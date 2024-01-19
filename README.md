@@ -40,5 +40,8 @@ Also, for years I've been acquiring knowledge together with my curiosity and sel
 ## Stats   
 
    <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Aokiri&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Aokiri.png" alt="TryHackMe">
    </p>
+
+
+
