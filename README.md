@@ -4,20 +4,13 @@
 
 ### Hello there! 👋
 
-Hi! My name is Alan Dominguez 'AKA' Aokiri.
-+6 years of experience in the IT industry, I love learning new things and creating well funded projects, that's why I started my career long time ago in IT, and now I'm in Cybersecurity and Programming.
-
-Also, for years I've been acquiring knowledge together with my curiosity and selftaught nature.
-
-- 🌱 I’m currently preparing for Cyberesecurity Certifications and more.
-- 💬 Ask me about Cybersecurity, Python, C#, Bash...
+Under construction! 
 
 ## Used
 
    <p align="center">
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/csharp_dotnet.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/python.svg" />
-      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/html.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/css3.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/js.svg" />
    </p>  
@@ -25,12 +18,8 @@ Also, for years I've been acquiring knowledge together with my curiosity and sel
 ## Tools
 
    <p align="center">
-      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/visualstudio_code.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/bash.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/powershell.svg" />
-      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/docker.svg" />
-      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/kubernetes.svg" />
-      <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/vmware.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/aws.svg" />
       <img src="https://github.com/Aokiri/Aokiri/blob/main/Assets/azure.svg" />
    </p>
@@ -40,6 +29,3 @@ Also, for years I've been acquiring knowledge together with my curiosity and sel
    <p align="center">
       <img src="https://tryhackme-badges.s3.amazonaws.com/Aokiri.png" alt="TryHackMe">
    </p>
-
-
-
